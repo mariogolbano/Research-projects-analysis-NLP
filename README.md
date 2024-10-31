@@ -70,4 +70,4 @@ The code in this project is designed for NLP analysis of research summaries but 
 
 
 ## Acknowledgments
-This project was developed as part of the Master's program in Telecommunications Engineering at Universidad Carlos III de Madrid (UC3M). Special thanks to my collaborators [Elena Almagro]([https://linkedin.com/in/elenaalmagro/) and [Juan Muñoz](https://www.linkedin.com/in/juan-munoz-villalon/) for their valuable contributions and teamwork throughout the project.
+This project was developed as part of the Master's program in Telecommunications Engineering at Universidad Carlos III de Madrid (UC3M). Special thanks to my collaborators [Elena Almagro](https://linkedin.com/in/elenaalmagro/) and [Juan Muñoz](https://www.linkedin.com/in/juan-munoz-villalon/) for their valuable contributions and teamwork throughout the project.
