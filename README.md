@@ -5,7 +5,7 @@
 This repository contains the analysis of various Natural Language Processing (NLP) research projects. The project applies several NLP preprocessing techniques, feature extraction methods, and classification models to analyze and draw insights from research datasets. The main goal is to process and classify text data to extract meaningful insights from a large dataset of research projects.
 
 ## Project Structure
-- `NLP_Researches_Analysis.ipynb`: Jupyter Notebook with the data preprocessing, feature extraction (using techniques like TFIDF and Word2Vec), and analysis using classification models such as Random Forest and BERT.
+- [`NLP_Researches_Analysis.ipynb`](./NLP_Researches_Analysis.ipynb): Jupyter Notebook with the data preprocessing, feature extraction (using techniques like TFIDF and Word2Vec), and analysis using classification models such as Random Forest and BERT.
 
 ## Setup
 
